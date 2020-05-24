@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pages-login{
+    width: 100%;
+    height: 1000px;
+    background-image: url(../../images/1578808115778.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pages-login-mask{
+    width: 25%;
+    height: 30%;
+    background:rgba(246, 243, 243, 0.8);
+    color:gray
+}
+.pages-login-mask-child{
+    margin: 20px;
+}
+.pages-login-mask-child p{
+    margin: 40px;
+}
+.buts{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+
+}
